@@ -1,0 +1,4 @@
+prefix: "&aCustom Food &f>>> &r"
+no-permission: "%prefix% &cYou don't have permission to do that!"
+error: "%prefix% &cThere was an error processing your request."
+reload: "%prefix% &a&lCustomFood &ehas been reloaded."

@@ -1,0 +1,9 @@
+name: CustomFood
+version: '${project.version}'
+main: com.joshscoper.customfood.Main
+api-version: 1.19
+commands:
+  customfood:
+    aliases:
+      - cf
+      - food

@@ -1,0 +1,10 @@
+pretzel:
+  item: "paper"
+  item-meta:
+    display-name: "&ePretzel"
+    custom-model-data: 123
+    lore:
+      - "A delicious pretzel"
+      - " "
+      - "&a&lEffect: &7%effect%"
+  effect: "well_fed"
